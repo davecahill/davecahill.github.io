@@ -1,0 +1,10 @@
+name: "davecahill"
+description: "davecahill"
+
+url: "http://xn--n3h.dave-cahill.com"
+
+paginate: 1
+
+markdown: rdiscount
+permalink: /:title
+highlighter: pygments
